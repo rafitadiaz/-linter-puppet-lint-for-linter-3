@@ -1,7 +1,7 @@
 {
   "name": "linter-puppet-lint-for-linter-3",
   "main": "./lib/main",
-  "version": "0.5.0",
+  "version": "0.1.0",
   "description": "Lint puppet on the fly using puppet-lint",
   "repository": "https://github.com/rafitadiaz/linter-puppet-lint-for-linter-3",
   "license": "MIT",
