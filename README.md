@@ -6,6 +6,8 @@ This package provides linter support to your puppet files trough atom-linter usi
 
 It's completly based on linter-ruby https://github.com/AtomLinter/linter-ruby they did the dirty job
 
+![Preview](http://s16.postimg.org/b84dqyuf9/pup_lin_scrsho.png)
+
 ## Installation
 Linter package must be installed in order to use this plugin. If Linter is not installed, please follow the instructions [here](https://github.com/AtomLinter/Linter).
 
